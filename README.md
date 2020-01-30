@@ -1,5 +1,8 @@
 # searchapp
-1. This application uses Elastic search in backend to store and index files for faster search. So please do following to start elastic search on local.
+
+(I am assuming that JAVA_HOME has been set and maven is availble to build the app.)
+
+1. This application uses Elastic search in backend to store and index files for faster search. So please do following to start elastic search on local. 
 
 ```
 curl -O https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.5.2-linux-x86_64.tar.gz
