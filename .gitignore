@@ -1,0 +1,40 @@
+# pom upgrade #
+*.xml.bak
+
+# eclipse #
+.classpath
+.settings
+.project
+.metadata
+.recommenders
+.factorypath
+
+target
+*.log
+out
+*.bak
+
+*.class
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# idea #
+.idea
+*.iml
+
+# JTA #
+*.epoch
+
+.DS_Store
+
+# activiti bpmn
+git.properties
+
+#netbeans
+nbactions.xml
+
+bin
+coverage
+test-results.xml
